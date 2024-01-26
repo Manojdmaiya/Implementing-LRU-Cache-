@@ -11,17 +11,17 @@ This repository contains a Java implementation of an LRU Cache, a commonly used 
  <h3>Initialize the LRUCache: </h3>
  Set the desired capacity for the LRUCache.
  
- <h2> <b> LRUCache lruCache = new LRUCache(capacity); </b> </h2>
+ <h4> LRUCache lruCache = new LRUCache(capacity); </h4>
 
  <h3> Add an Item to the Cache:</h3>
 
 Use the add method to add a key-value pair to the LRUCache.
 
-<h2> <b> lruCache.add(key); </b> </h2>
+<h4>  lruCache.add(key);  </h4>
 <h3> Display Cache Contents: </h3>
 
 <h3> View the current contents of the LRUCache using the display method. </h3>h3>
 
-<h2> <b>LRUCache.display(); </b> </h2>
+<h4>LRUCache.display();</h4>
 <h2>Contributing: </h2>
 Feel free to contribute, report issues, or suggest improvements. Your feedback is highly appreciated!
