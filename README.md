@@ -20,8 +20,8 @@ Use the add method to add a key-value pair to the LRUCache.
 <h4>  lruCache.add(key);  </h4>
 <h3> Display Cache Contents: </h3>
 
-<h3> View the current contents of the LRUCache using the display method. </h3>h3>
+<h3> View the current contents of the LRUCache using the display method. </h3>
 
-<h4>LRUCache.display();</h4>
+<h4>LRUCache.display();</h4> <br/>
 <h2>Contributing: </h2>
 Feel free to contribute, report issues, or suggest improvements. Your feedback is highly appreciated!
