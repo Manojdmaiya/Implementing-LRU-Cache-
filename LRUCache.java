@@ -76,7 +76,9 @@ else {
       head.next.prev = nn;
       head.next = nn;
       nn.prev = head;
-      hm.put(key,nn); System.out.println("\nCache is full,least recently are remove and recent item  added successfully " + nn.data);
+      hm.remove(pre.data);
+      hm.put(key,nn);
+     System.out.println("\nCache is full,least recently are remove and recent item  added successfully " + nn.data);
       
     }
 
